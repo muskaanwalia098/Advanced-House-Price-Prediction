@@ -1,4 +1,4 @@
-# Ames House Price Prediction: A Comprehensive Analysis
+# Ames House Price Prediction: A Comprehensive Analysis 🏘️
 
 This repository provides a detailed examination of the Ames Housing dataset, compiled by Dean De Cock, using the Lasso Regression model. The project is designed to predict the final price of residential homes in Ames, Iowa, through a step-by-step application of essential Data Science techniques.
 
