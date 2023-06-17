@@ -16,7 +16,7 @@ Project Lifecycle:
 
 With these methodologies, the model has achieved an impressive prediction accuracy of 81%. This project offers a rich experience of creative feature engineering and advanced regression techniques, while also bringing a modernized perspective to house price prediction challenges, beyond the traditional Boston Housing dataset.
 
-Dataset: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+ The dataset used for this project is obtained from Kaggle and can be found [here](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data) 🏠🏚️🏡
 
 Please refer to the Jupyter notebooks for each step in the project lifecycle for detailed insights. If you find this project useful, feel free to use it as a reference or contribute to its development.
 
